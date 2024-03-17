@@ -1,6 +1,6 @@
 # GSoc24EvaluationTask
 
-The project can be cloned and setup as any other Julia project. The run.jl file may be executed to train and evaluate the model on the given dataset.\
+The project can be cloned and setup as any other Julia project. The run.jl file may be executed to train and evaluate the model on the given dataset.
 
 # Final Submission Details
 
